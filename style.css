@@ -7,6 +7,7 @@
 body{
     max-width: 300px;
     margin: auto;
+    background-color: #fff;
 }
 .bottom{
     display: flex;
